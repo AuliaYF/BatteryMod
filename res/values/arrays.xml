@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="syncPos">
+        <item name="left">Left</item>
+        <item name="right">Right</item>
+
+    </string-array>
+    <string-array name="syncPosValues">
+        <item name="left">left</item>
+        <item name="right">right</item>
+    </string-array>
+     
+</resources>
